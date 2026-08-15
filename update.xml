@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='odlehfcndapffhfeoeeodaplncfbnfhf'>
-    <updatecheck codebase='https://raw.githubusercontent.com/baekillyou/bluescraper-releases/main/Bluescrape.crx' version='1.8' />
+  <app appid='foncjhfamfpmeekglpjpnmgggkapmeid'>
+    <updatecheck codebase='https://raw.githubusercontent.com/baekillyou/bluescraper-releases/main/Bluescrape.crx' version='1.9' />
   </app>
 </gupdate>
